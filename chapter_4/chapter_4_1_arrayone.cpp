@@ -2,7 +2,7 @@
 using namespace std;
 /*
 int main(){
-    int yams[3];
+    int yams[3] ={};
     yams[0] =20;
     yams[1] = 30;
     yams[2] = 40;
