@@ -3,7 +3,7 @@
 #include <string>
 #include <iostream>
 #include <cstring>
-
+/*
 using namespace std;
 int main(){
 
@@ -22,4 +22,4 @@ int main(){
     cout<<"length of charr1: "<<strlen(charr1)<<endl;
     cout<<"length of str"<<str.size()<<endl;
 }
-
+*/
