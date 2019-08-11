@@ -1,3 +1,4 @@
+// string and char[] compare --- assign and copy and size
 #include <iostream>
 #include <string>
 #include <cstring>
