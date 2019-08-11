@@ -25,6 +25,7 @@ bool worseThan(const review&r1,const review &r2){
         return false;
     }
 }
+/*
 int main(){
     vector<review> books;
     books.push_back(review{"c",4});
@@ -48,7 +49,7 @@ int main(){
     random_shuffle(books.begin(),books.end());
     for_each(books.begin(),books.end(),show);
 }
-
+*/
 void show(const review & r1){
     cout<<"title: "<<r1.title<<"  rating:"<<r1.rating<<endl;
 }
