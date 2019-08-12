@@ -2,30 +2,34 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+/*
 using namespace std;
-struct  review{
+struct review {
     string title;
     int rating;
 };
-void show(const review & r1);
-bool operator<(const review & r1,const review & r2){
-    if(r1.title < r2.title){
-        return true;
-    }else if (r1.title == r2.title && r1.rating < r2.rating){
-        return true;
-    }else {
-        return false;
-    }
+
+void show(const review &r1);
+
+bool operator<(const review &r1, const review &r2) {
+  if (r1.title < r2.title) {
+    return true;
+  } else if (r1.title == r2.title && r1.rating < r2.rating) {
+    return true;
+  } else {
+    return false;
+  }
 }
 
-bool worseThan(const review&r1,const review &r2){
-    if(r1.rating < r2.rating){
-        return true;
-    }else{
-        return false;
-    }
+bool worseThan(const review &r1, const review &r2) {
+  if (r1.rating < r2.rating) {
+    return true;
+  } else {
+    return false;
+  }
 }
-/*
+
+
 int main(){
     vector<review> books;
     books.push_back(review{"c",4});
@@ -49,7 +53,8 @@ int main(){
     random_shuffle(books.begin(),books.end());
     for_each(books.begin(),books.end(),show);
 }
-*/
-void show(const review & r1){
-    cout<<"title: "<<r1.title<<"  rating:"<<r1.rating<<endl;
+
+void show(const review &r1) {
+  cout << "title: " << r1.title << "  rating:" << r1.rating << endl;
 }
+ */
