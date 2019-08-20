@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 /*
 long double computeLotto(int number,int pick);
 int main(){
