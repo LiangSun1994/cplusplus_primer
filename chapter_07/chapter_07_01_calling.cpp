@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+/*
 void simple();
 int& returnNumber(int& number);
 
@@ -17,3 +18,4 @@ int& returnNumber(int & number){
 void simple(){
   cout<<"I am simple function"<<endl;
 }
+*/
