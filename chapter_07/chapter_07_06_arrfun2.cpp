@@ -9,6 +9,7 @@ int main(){
   cout<<"size of arr in main"<< sizeof(arr)<<endl;
   int res1 = sum(arr,ArrSize);
   cout<<"sum of arr is "<< sum(arr,ArrSize)<<endl;
+
 }
 int sum(int arr[], int ArrSize){
   int res = 0;
