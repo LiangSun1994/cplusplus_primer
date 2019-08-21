@@ -12,8 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bad57d1-7c5f-458f-a5df-0c1c759f3212" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_07/chapter_07_09_strgfun.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_07/chapter_07_09_strgfun.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +27,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_10_strgback.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp">
+        <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="46">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -57,6 +47,7 @@
         <option value="$PROJECT_DIR$/chapter_07/chapter_07_09_strgfun.cpp" />
         <option value="$PROJECT_DIR$/chapter_07/chapter_07_10_strgback.cpp" />
         <option value="$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp" />
+        <option value="$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp" />
       </list>
     </option>
   </component>
@@ -130,12 +121,12 @@
       <workItem from="1566312277216" duration="438000" />
       <workItem from="1566312720168" duration="1317000" />
       <workItem from="1566397358035" duration="185000" />
-      <workItem from="1566397546231" duration="1024000" />
+      <workItem from="1566397546231" duration="1541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3222000" />
+    <option name="totallyTimeSpent" value="3739000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,8 +139,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -161,7 +153,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30163935" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30163935" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.42459017" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -196,6 +188,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_10_strgback.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -203,10 +202,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp">
+    <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="46">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>

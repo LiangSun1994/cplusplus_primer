@@ -2,6 +2,7 @@
 using namespace std;
 # define SQUARE(X) X*X
 inline double square(double x){ return x*x;}
+/*
 int main()
 {
   double a,b;
@@ -16,3 +17,4 @@ int main()
   cout<<d<<endl;
   return 0;
 }
+*/
