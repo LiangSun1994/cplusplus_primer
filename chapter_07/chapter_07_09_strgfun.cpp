@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/*
 int int_in_str(const char * str, char c);
 int main(){
   char * str = "mmmmnnn";
@@ -18,3 +18,4 @@ int int_in_str(const char* str,char c){
   }
   return res;
 }
+ */
