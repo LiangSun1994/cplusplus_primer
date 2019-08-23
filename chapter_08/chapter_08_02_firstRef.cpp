@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-/
+/*
 int main()
 {
   int var = 23;
@@ -11,3 +11,4 @@ int main()
 
   return 0;
 }
+*/
