@@ -16,7 +16,13 @@ int main()
   cout<<"b:"<<b<<"  address b:"<<&b<<endl;
   cout<<"c:"<<c<<"  address c:"<<&c<<endl;
 
-
+  int rats = 10;
+  int* rats_ptr = &rats;
+  int& rodents = *rats_ptr;
+  cout<<rodents<<endl;
+  int bunnies = 20;
+  rats_ptr = &bunnies;
+  cout<<rodents<<endl;
   return 0;
 }
 */
