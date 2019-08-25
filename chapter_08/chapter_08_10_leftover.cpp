@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 /*
 unsigned long left(unsigned long source, unsigned int l);
