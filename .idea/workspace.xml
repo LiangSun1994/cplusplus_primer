@@ -11,11 +11,21 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0bad57d1-7c5f-458f-a5df-0c1c759f3212" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_08/chapter_08_03_secondRef.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_08/chapter_08_03_secondRef.cpp" afterDir="false" />
     </list>
+=======
+<<<<<<< HEAD
+    <list default="true" id="0bad57d1-7c5f-458f-a5df-0c1c759f3212" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="0bad57d1-7c5f-458f-a5df-0c1c759f3212" name="Default Changelist" comment="" />
+>>>>>>> 4962b08a508018c4d92d66103f30738eb2a43f36
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +37,26 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_09.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+=======
+        <entry file="file://$PROJECT_DIR$/chapter_08/chapter_08_03_secondRef.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            </state>
+          </provider>
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 4962b08a508018c4d92d66103f30738eb2a43f36
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,10 +64,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_01_calling.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_03_twoArg.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_04_lotto.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_05_arrfun.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_06_arrfun2.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_07_arrfun3.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_08_arrfun4.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/chapter_07_09.cpp" />
+=======
         <option value="$PROJECT_DIR$/chapter_07/chapter_07_09_strgfun.cpp" />
         <option value="$PROJECT_DIR$/chapter_07/chapter_07_10_strgback.cpp" />
         <option value="$PROJECT_DIR$/chapter_08/chapter_08_01_inline.cpp" />
         <option value="$PROJECT_DIR$/chapter_08/chapter_08_03_secondRef.cpp" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/chapter_08/chapter_08_02_firstRef.cpp" />
       </list>
     </option>
@@ -48,6 +88,17 @@
     <option name="y" value="-8" />
     <option name="width" value="1040" />
     <option name="height" value="744" />
+=======
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+>>>>>>> 4962b08a508018c4d92d66103f30738eb2a43f36
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -65,6 +116,16 @@
               <item name="cplusplus" type="b2602c69:ProjectViewProjectNode" />
               <item name="cplusplus" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cplusplus_primer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cplusplus_primer" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cplusplus_primer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cplusplus_primer" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,17 +170,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566285589127</updated>
+<<<<<<< HEAD
+      <workItem from="1566285590331" duration="8096000" />
+=======
       <workItem from="1566285590331" duration="258000" />
       <workItem from="1566312277216" duration="438000" />
       <workItem from="1566312720168" duration="1317000" />
       <workItem from="1566397358035" duration="185000" />
       <workItem from="1566397546231" duration="1541000" />
+<<<<<<< HEAD
       <workItem from="1566399607640" duration="1028000" />
+=======
+      <workItem from="1566399607640" duration="240000" />
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
+>>>>>>> 4962b08a508018c4d92d66103f30738eb2a43f36
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4767000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="8096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17965727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.36572623" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="3979000" />
+>>>>>>> 4962b08a508018c4d92d66103f30738eb2a43f36
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,6 +224,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -159,8 +248,62 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_02_proto.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_03_twoArg.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_04_lotto.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_01_calling.cpp">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="340">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_05_arrfun.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_06_arrfun2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_07_arrfun3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_08_arrfun4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/chapter_07_09.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+=======
         <state relative-caret-position="257">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
@@ -207,6 +350,7 @@
           <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
+>>>>>>> 7ed50d2285e2ac39e12fcc71de511995e430f728
     </entry>
   </component>
 </project>
