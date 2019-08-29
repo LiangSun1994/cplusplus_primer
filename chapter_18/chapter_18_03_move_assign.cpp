@@ -14,7 +14,7 @@ class useless {
   useless(int len, char c);// two argument construct
   useless(const useless& u);
   useless(useless&& u); //move construct
-  useless operator+(const useless& u) const; // operator +
+  useless operator+(const useless& u) const; // operator+
   void showData() const;
 
   useless& operator=(const useless &u);
