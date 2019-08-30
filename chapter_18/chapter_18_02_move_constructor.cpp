@@ -80,12 +80,12 @@ useless::~useless() {
 
 useless useless::operator+(const useless &u) const {
   cout<<"we are in operator+"<<endl;
-  useless re = useless(n + u.n);
+  useless re = useless(len + u.len);
 
-  for(int i =0; i < n; i++){
+  for(int i =0; i < len; i++){
     re.p[i] = p[i];
   }
-  for(int i = n;i < re.n; i++){
+  for(int i = len;i < re.len; i++){
     re.p[i] = u.p[i - n];
   }
   return re;
